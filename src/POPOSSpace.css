@@ -7,3 +7,12 @@
   width: 100%;
   height: auto;
 }
+
+p {
+  font-size: small;
+  color: rgb(87, 86, 86);
+}
+
+h1 {
+  font-size:24px;
+}
