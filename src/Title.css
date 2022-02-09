@@ -1,0 +1,23 @@
+/*  src/Title.css  */
+.Header {
+  box-sizing: border-box;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  background-color: rgb(192, 45, 26);
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  padding: 1.5em;
+}
+
+.Title {
+  /* padding: 1em; */
+  margin: .4em;
+}
+
+.Title-Subtitle {
+  margin: 0;
+}
