@@ -16,9 +16,27 @@
 
 .Title {
   /* padding: 1em; */
-  margin: .4em;
+  margin: .3em;
+  font-size:xx-large;
 }
 
 .Title-Subtitle {
-  margin: 0;
+  
+  font-size: medium;
+
+}
+
+.nav {
+  display: inline-block;
+  margin-right: 2em;
+  margin-left: 2em;
+  color: rgba(255, 255, 255, 0.835);
+  font-weight: bold;
+  text-decoration: none;
+  margin-top: 1.3em;
+}
+
+.Header .nav-link-active {
+  color: #fff;
+  border-bottom: 2px solid;
 }
